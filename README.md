@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there my name is Raul Pineda👋
+😄The hobbies I have are learning to program, listening to music, I like basketball😄
+
 
 <!--
 **RaulBP23015/RaulBP23015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
