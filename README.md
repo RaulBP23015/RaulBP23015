@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Raul Pineda and I'm a I'm a programmer student, from El Salvador</p>
+<p align="left">My name is Raul Pineda and I'm a programmer student, from El Salvador</p>
 
 ###
 
